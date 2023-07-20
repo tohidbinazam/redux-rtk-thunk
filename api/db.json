@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "name": "huyu",
+      "photo": "https://picsum.photos/200",
+      "content_text": "How are you?",
+      "content_photo": "https://picsum.photos/200",
+      "id": 1
+    }
+  ]
+}

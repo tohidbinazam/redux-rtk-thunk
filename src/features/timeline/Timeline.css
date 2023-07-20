@@ -1,0 +1,31 @@
+.header-left {
+  gap: 8px;
+}
+.header-left img {
+  width: 14%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.header-info p {
+  font-size: 0.8rem;
+}
+.header-right button svg {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.content-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.reactions {
+  margin-top: 10px;
+}
+.reactions button {
+  border: none;
+  background: none;
+}
+.reactions button svg {
+  font-size: 1.8rem;
+}
