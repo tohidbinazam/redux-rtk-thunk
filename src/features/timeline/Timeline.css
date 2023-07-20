@@ -2,8 +2,8 @@
   gap: 8px;
 }
 .header-left img {
-  width: 14%;
-  height: 100%;
+  width: 46px;
+  height: 46px;
   object-fit: cover;
   border-radius: 50%;
 }
